@@ -1,4 +1,6 @@
 The dataset on which the Exploaitairy Data Analysis is done is SOFIFA based FIFA rating of players in the year 2018.
+The source of which is available in kaggle and can be downloaded  from the below URL:
+https://www.kaggle.com/karangadiya/fifa19 and was crawled from https://sofifa.com
 
 Ther are lots of attributes capturted on the dataset , starting from name, nation_team , football_club , to positional play of each player
 
