@@ -1,4 +1,4 @@
-The dataset on which the Exploaitairy Data Analysis is done is SOFIA based FIFA rating of players in the year 2018.
+The dataset on which the Exploaitairy Data Analysis is done is SOFIFA based FIFA rating of players in the year 2018.
 
 Ther are lots of attributes capturted on the dataset , starting from name, nation_team , football_club , to positional play of each player
 
