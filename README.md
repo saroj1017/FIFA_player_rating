@@ -14,5 +14,15 @@ Here we have used two algorithm to predict the raitng those are :
 
 After the model is trained we could observe a accouracy score of around 95% , so we could observe that the model is very well able to precict the rating of a player.
 
+**For Example** :<br>
+In the below box plot , i have analysed the working of the two algorithmns Xgboost and Linear_regression and mesaure the aaccourancy to which it predicts the actual player rating and based on the plot we will be able to conclude that XGboost gives a better in this case of prediction.
+
+<img src='images/algorithmns.png' width = 700>
+
+
+How to Run 
+* You can view all the plots and analysis on the below iplython notebook
+https://github.com/saroj1017/FIFA_player_rating/blob/main/FIFA_player_rating(xgboost_vs_linear_regression.ipynb
+
 
 
