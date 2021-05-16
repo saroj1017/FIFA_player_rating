@@ -17,7 +17,7 @@ After the model is trained we could observe a accouracy score of around 95% , so
 **For Example** :<br>
 In the below box plot , i have analysed the working of the two algorithmns Xgboost and Linear_regression and mesaure the aaccourancy to which it predicts the actual player rating and based on the plot we will be able to conclude that XGboost gives a better in this case of prediction.
 
-<img src='images/algorithmns.png' width = 700>
+<img src='images/algorithms.png' width = 700>
 
 
 How to Run 
